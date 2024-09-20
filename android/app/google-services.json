@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763884322661",
+    "project_id": "sabz-organics",
+    "storage_bucket": "sabz-organics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763884322661:android:d2274482d056d96c3d6b8c",
+        "android_client_info": {
+          "package_name": "com.sabzorganicsanalytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9LzrYyqU-hdfOqZCVtGLuUmA4y9QDgyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
